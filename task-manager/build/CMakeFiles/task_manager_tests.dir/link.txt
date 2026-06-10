@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/task_manager_tests.dir/tests/TaskManagerTest.cpp.o -o task_manager_tests  libapp_core.a lib/libgtest_main.a lib/libgtest.a 

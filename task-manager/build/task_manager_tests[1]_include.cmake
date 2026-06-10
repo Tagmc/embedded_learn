@@ -1,0 +1,5 @@
+if(EXISTS "/home/huynguyen/workspace/cpp/task-manager/build/task_manager_tests[1]_tests.cmake")
+  include("/home/huynguyen/workspace/cpp/task-manager/build/task_manager_tests[1]_tests.cmake")
+else()
+  add_test(task_manager_tests_NOT_BUILT task_manager_tests_NOT_BUILT)
+endif()

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/task_manager.dir/main.cpp.o -o task_manager  libapp_core.a 
